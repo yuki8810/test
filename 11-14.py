@@ -205,3 +205,4 @@ def answer():
         print("入力失敗")
 
 answer()
+print(1)
